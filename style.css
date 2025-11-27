@@ -78,7 +78,7 @@ nav a {
 /* ====== HERO ====== */
 .hero {
   background: linear-gradient(to right, #003366, #0055aa);
-  color: red;
+  color: gray;
   text-align: center;
   padding: 160px 20px;
   background-image: url('CICALLLT 2.jpg');
