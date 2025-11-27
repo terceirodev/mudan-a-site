@@ -80,7 +80,8 @@ nav a {
   background: linear-gradient(to right, #003366, #0055aa);
   color: white;
   /* PROPRIEDADES DO CONTORNO */
-  -webkit-text-stroke: 2px #4e0b0b; /* 1px de espessura e cor bordô */
+  -webkit-text-stroke: 0.5px #000000; /* ...px de espessura e cor black */
+  /*-webkit-text-stroke: 2px #4e0b0b; /* 1px de espessura e cor bordô */
   text-shadow: none; /* Garante que nenhuma sombra remanescente interfira */
   text-align: center;
   padding: 160px 20px;
