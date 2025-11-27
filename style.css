@@ -89,14 +89,20 @@ nav a {
   background-size: cover;
 }
 
+#subti {
+  -webkit-text-stroke: 0.5px #000000;
+  text-shadow: none;
+  font-size: 1.6rem;
+  margin-bottom: 30px;
+  
+}
+
 .hero h2 {
   font-size: 2.5rem;
   margin-bottom: 15px;
 }
 
 .hero p {
-  -webkit-text-stroke: 1px #a4a2a2;
-  text-shadow: none;
   font-size: 1.2rem;
   margin-bottom: 30px;
 }
